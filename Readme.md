@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Perepu Krishna Kavya Sri!
 
-🎓 Final-year Computer Science undergraduate at **Keshav Memorial Institute of Technology**, passionate about **software development**, **machine learning**, and **compiler design**. I'm a hands-on builder who loves turning complex ideas into practical and scalable applications.
+🎓 Computer Science undergraduate at **Keshav Memorial Institute of Technology**, passionate about **software development**, **machine learning**, and **compiler design**. I'm a hands-on builder who loves turning complex ideas into practical and scalable applications.
 
 ---
 
@@ -28,8 +28,9 @@ _Data Structures, Algorithms, Machine Learning, Operating Systems, DBMS, OOP, CN
 
 ## 📈 My GitHub Stats
 
-![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavyaPerepu19&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavyaPerepu19&layout=compact&theme=radical)
+![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavyaPerepu19&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavyaPerepu19&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kavyaPerepu19&theme=radical)
 
 ---
 
@@ -77,4 +78,3 @@ _Data Structures, Algorithms, Machine Learning, Operating Systems, DBMS, OOP, CN
 ---
 
 _✨ “Build with purpose. Solve with passion.” ✨_
-
