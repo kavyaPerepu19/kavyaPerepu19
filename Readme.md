@@ -131,7 +131,8 @@ _Data Structures, Algorithms, Machine Learning, Operating Systems, DBMS, OOP, CN
 - 📧 Email: [perepukavyasri@gmail.com](mailto:perepukavyasri@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kavya-perepu-b545ba26b/)  
 - 👨‍💻 [LeetCode](https://leetcode.com/u/perepukavyasri/)  
-- 🌐 Portfolio: *Coming Soon*
+- 🌐 [Portfolio](https://perepukavya.vercel.app/)
+
 
 ---
 
